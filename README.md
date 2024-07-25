@@ -22,10 +22,10 @@ vanilla JavaScript.
 #### Let's connect!
 
 <p>
-<a href="https://www.linkedin.com/in/ducmanhdev/">
+<a href="https://www.linkedin.com/in/ducmanhdev/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="mailto:work.ducmanh0323@gmail.com">
+<a href="mailto:work.ducmanh0323@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a> 
 </p>
@@ -40,12 +40,12 @@ like to chat about potential opportunities or just geek out about the latest web
 - 👨‍🎓 I’m currently learning English for more opportunity.
 - 🤔 I'm looking to take on new challenges and work on projects that will allow me to utilize and expand my skill set in
   various technologies.
-- 📫 How to reach me: [Gmail](mailto:work.ducmanh0323@gmail.com)
-- 🧾 Check out my [resume](https://ducmanhdev.github.io/CV/).
+- 📫 How to reach me: <a href="mailto:work.ducmanh0323@gmail.com" target="_blank">Gmail</a>.
+- 🧾 Check out my <a href="https://ducmanhdev.github.io/CV/" target="_blank">resume</a>.
 
 ## 🛠️ Languages and Tools I use:
 
-<p style="max-width: 80%; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/></code>
     </a>
