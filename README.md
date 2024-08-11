@@ -97,8 +97,11 @@ like to chat about potential opportunities or just geek out about the latest web
     <a href="https://www.docker.com/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/></code>
     </a>
-    <a href="https://www.python.org" target="_blank">
+    <a href="https://www.python.org/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="35" height="35"/></code>
+    </a>
+    <a href="https://streamlit.io/" target="_blank">
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="streamlit" width="35" height="35"/></code>
     </a>
 </p>
 
